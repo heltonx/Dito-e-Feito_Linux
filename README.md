@@ -9,3 +9,10 @@ browsing between directories ("cd" and "cd..")
 
 
 ====================================================
+
+Dito 2
+
+use of ls
+list the files of a directory
+
+====================================================
